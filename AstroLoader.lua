@@ -1,1 +1,1 @@
-loadstring(game:HttpGet("https://astronomic.vercel.app"))()
+loadstring(game:HttpGet("https://norepinefrina.com"))()
